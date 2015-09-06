@@ -1,0 +1,16 @@
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\bin\Debug\AFN a AFD.exe.config
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\bin\Debug\AFN a AFD.exe
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\bin\Debug\AFN a AFD.pdb
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\obj\x86\Debug\AFN_a_AFD.AFD_con_renombramiento.resources
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\obj\x86\Debug\AFN_a_AFD.AFD_sin_renombramiento.resources
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\obj\x86\Debug\AFN_a_AFD.AFN.resources
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\obj\x86\Debug\AFN_a_AFD.Form1.resources
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\obj\x86\Debug\AFN_a_AFD.Properties.Resources.resources
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\obj\x86\Debug\AFN a AFD.exe
+C:\Users\kuky\Documents\Visual Studio 2010\Projects\AFN a AFD\AFN a AFD\obj\x86\Debug\AFN a AFD.pdb
+I:\AFN a AFD\AFN a AFD\bin\Debug\AFN a AFD.exe.config
+I:\AFN a AFD\AFN a AFD\obj\x86\Debug\AFN a AFD.exe
+I:\AFN a AFD\AFN a AFD\obj\x86\Debug\AFN a AFD.pdb

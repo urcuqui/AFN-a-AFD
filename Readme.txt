@@ -1,0 +1,1 @@
+Aplicación que transforma un autómata finito no determinista a un autómata finito determinista
